@@ -1,6 +1,9 @@
 # Introduction
 FeatherGL is a lightweight open source JavaScript library for managing a WebGL environment.
 
+# Examples
+<a href="http://bnason.github.com/FeatherGL/Examples/Teapot/"><img src="http://bnason.github.com/FeatherGL/Examples/Teapot/Preview.png" /></a>
+
 # Download
  * [Homepage](http://www.brandonnason.com/software/feathergl/)
  * [GitHub Repo](https://github.com/bnason/FeatherGL)
