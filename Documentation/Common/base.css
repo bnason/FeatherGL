@@ -1,0 +1,22 @@
+/**
+ * This file is part of the FeatherGL javascript library
+ *
+ * (c) Brandon Nason <brandon.nason@gmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+*
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+html, body
+{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
